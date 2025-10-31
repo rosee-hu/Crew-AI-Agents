@@ -1,5 +1,5 @@
 crewai
 langchain-openai
 gradio
+yfinance
 python-dotenv
-pydantic
